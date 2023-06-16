@@ -1,0 +1,21 @@
+_id: req_2aff3b1d8d60412eb08dedf23fc387ea
+type: Request
+parentId: fld_c436d69c53204e689052c12edb0952df
+modified: 1686954352769
+created: 1685040019055
+url: "{{ _.url }}/products/12"
+name: Total Update Product (PUT)
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685040576526
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,28 @@
+_id: req_4a6bc30298ea47be9256b20e45ceec8e
+type: Request
+parentId: fld_c436d69c53204e689052c12edb0952df
+modified: 1686954339832
+created: 1685040128477
+url: "{{ _.url }}products/c94d0d68-6b5f-4fb9-a4c6-9e83b2bccf80"
+name: Partial Update Product (PATCH)
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"price": 2000
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1685040576476
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,30 @@
+_id: req_2b77a327e1fc47039a088cb03477642b
+type: Request
+parentId: fld_c436d69c53204e689052c12edb0952df
+modified: 1686954317841
+created: 1685038380442
+url: "{{ _.url }}products"
+name: Create Product
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Carne",
+    	"price": 1,
+    	"image": "http://lorem.pixel/200"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1685040576426
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
